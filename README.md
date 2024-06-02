@@ -21,7 +21,8 @@ Integração do Power BI com MySQL no Azure
 ![image](https://github.com/alessandragalvaos/DIO_POWER_BI/assets/156546129/40a3c709-c531-4b27-893d-54bb114eb6aa)
 
 
-4. Verificar problemas na base a fim de realizar a transformação dos dados
+Verificar problemas na base a fim de realizar a transformação dos dados
+![image](https://github.com/alessandragalvaos/DIO_POWER_BI/assets/156546129/6eeb26d5-43a8-4d38-afd3-da4fde099cc1)
 
 
 
