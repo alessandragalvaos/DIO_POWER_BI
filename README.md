@@ -38,7 +38,7 @@ Mescla de departamento e localização: Unindo informações de departamentos e 
 Mescla de colunas de tabelas: Combinando colunas relevantes de diferentes tabelas.
 Criação de dashboard: Desenvolvendo um dashboard interativo para visualização dos dados.
 
-Ferramentas utilizadas:
+## 💻 Tecnologias:
 
 Microsoft Azure
 MySQL
@@ -48,10 +48,10 @@ Power Query
 
 
 Melhoria na qualidade dos dados: Limpeza e transformação dos dados garantem confiabilidade para análises.
+
+![image](https://github.com/alessandragalvaos/DIO_POWER_BI/assets/156546129/518c4c5a-0747-4782-9381-cdf93f3a038d)
+
 Análise completa de dados: Integração de dados de diferentes fontes para uma visão holística.
 Visualização de dados intuitiva: Criação de dashboards interativos para facilitar a compreensão dos dados.
 Tomada de decisões mais assertivas: Insights valiosos obtidos a partir da análise de dados.
 
-Conclusão:
-
-Este desafio demonstra como o Power BI e o Power Query podem ser utilizados para simplificar e analisar dados complexos de um banco de dados MySQL no Azure. Através da limpeza, transformação e visualização dos dados, é possível obter informações valiosas para auxiliar na tomada de decisões estratégicas.
